@@ -1,2 +1,2 @@
-# Darija_LM
-Creating the Moroccan Darija Language Model
+# Darija Language Model
+Creating the Darija (Moroccan Arabic Dialect) Language Model: Bert-based and FastAI-based
